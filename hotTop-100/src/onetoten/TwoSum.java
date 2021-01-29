@@ -30,7 +30,7 @@ public class TwoSum {
     }
 
     /**
-     * 2.hashtab存找
+     * 2.hashMap存找
      * */
     public int[] twoSum1(int[] nums, int target) {
         int[] results = new int[]{0,1};
